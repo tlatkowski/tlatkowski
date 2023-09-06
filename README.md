@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Tomek
 
-I'm an Experienced AI Engineer with over **10 years** of hands-on experience in applying **deep and shallow machine learning methods** for solving tasks in the fields of:
+I'm an **Experienced AI Engineer** with over **10 years** of hands-on experience in applying **deep and shallow machine learning methods** for solving tasks in the fields of:
 
 * Time Series
 * Computer Vision
